@@ -1,0 +1,4 @@
+export const ACCESS_TOKEN_NAME =
+  process.env.ACCESS_COOKIE_NAME || "ACCESS_TOKEN";
+export const REFRESH_TOKEN_NAME =
+  process.env.REFRESH_COOKIE_NAME || "REFRESH_TOKEN";

@@ -1,7 +1,7 @@
 run be:
-yarn
-migration database: npm run typeorm:run-migrations
-yarn start:dev
+- yarn
+- migration database: npm run typeorm:run-migrations
+- yarn start:dev
 
 ## API : http://localhost:8000/api
 -Post: 

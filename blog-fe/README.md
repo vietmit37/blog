@@ -1,3 +1,4 @@
+NEXTJS
 - Use AntD
 - List all posts on homepage with a short summary (scroll infinite)
 - A post on homepage should display the basic information as below

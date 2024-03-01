@@ -50,7 +50,5 @@ yarn start:dev
 - Auth (jwt) : Authentication
     - GET:
         - /auth: Get info user
-        - /auth/refresh: Get accessToke when expired
-        - /auth/log-out
     - POST:
         - /auth/log-in
